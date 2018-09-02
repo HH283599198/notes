@@ -9,3 +9,7 @@
 ### 第2篇 JDK
 
 - **2.1** [JDK1.8](https://github.com/HH283599198/notes/wiki/JDK1.8)
+
+### 第3篇 idea
+
+- **3.1** [JDK1.8](https://github.com/HH283599198/notes/wiki/JDK1.8)
