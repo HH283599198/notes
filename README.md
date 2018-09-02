@@ -12,4 +12,4 @@
 
 ### 第3篇 idea
 
-- **3.1** [JDK1.8](https://github.com/HH283599198/notes/wiki/JDK1.8)
+- **3.1** [idea常用快捷键](https://github.com/HH283599198/notes/wiki/idea%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE)
