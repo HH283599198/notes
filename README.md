@@ -16,4 +16,4 @@
 
 ### 第4篇 mybaits plus
 
-- **4.1** [mybatis学习](https://github.com/HH283599198/notes/wiki/idea%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE)
+- **4.1** [mybatis学习](https://github.com/HH283599198/notes/wiki/mybatis-plus)
