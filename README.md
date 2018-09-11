@@ -17,3 +17,7 @@
 ### 第4篇 mybaits plus
 
 - **4.1** [mybatis学习](https://github.com/HH283599198/notes/wiki/mybatis-plus)
+
+### 第5篇 springboot
+
+- **4.1** [日志使用](https://github.com/HH283599198/notes/wiki/mybatis-plus)
